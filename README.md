@@ -2,6 +2,7 @@
 - 🧑‍💻 I’m currently working on Cloud Engineering
 - 🌱 I’m currently learning AWS, IaC, and Modern DevOps practices
 - 🏆 **2025 Japan All AWS Certifications Engineer**
+- 🏆🏆 **2026 Japan All AWS Certifications Engineer**
 - 📍現在、NotionやScrapboxから個人ナレッジを移行・統合中です。
 
 <br><br>
