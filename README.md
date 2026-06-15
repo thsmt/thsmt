@@ -4,8 +4,8 @@ AWS / Infrastructure / Network / IaC / DevOps
 
 AWS を中心に、ネットワーク、サーバー、Webアプリケーション基盤を設計・構築・運用の観点で整理しています。CloudFormation による Infrastructure as Code、構成図、パラメータ例、セキュリティ上の考慮点、運用メモを残し、後から再現・説明できるインフラ構成としてまとめています。
 
-- 2025 Japan All AWS Certifications Engineer
-- 2026 Japan All AWS Certifications Engineer
+- 🏆2025 Japan All AWS Certifications Engineer
+- 🏆🏆2026 Japan All AWS Certifications Engineer
 - 現在は AWS、IaC、Modern DevOps practices を中心に、設計・構築・運用観点の整理を進めています。
 
 <br>
